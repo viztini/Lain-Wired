@@ -1,4 +1,4 @@
-![title](./lain.png)
+![Lain](./lain.png)
 
 # Lain-Wired GitHub Theme (Firefox Extension)
 
