@@ -1,0 +1,128 @@
+/* Lain-Wired - A Serial Experiments Lain inspired theme for GitHub */
+
+/* Main body and background */
+body {
+    background-color: #2c1e18 !important; /* Dark, brownish-red */
+    color: #e0dcd1 !important; /* Off-white, slightly yellowish */
+}
+
+/* Header */
+.header {
+    background-color: #8c3a3a !important; /* Deeper, muted red */
+    border-bottom: 1px solid #5a453c !important; /* Darker, less saturated brown */
+}
+
+.header-logo-invertocat {
+    color: #e0dcd1 !important; /* Off-white */
+}
+
+/* Links */
+a {
+    color: #8cb8d7 !important; /* Pale, eerie blue */
+}
+
+a:hover {
+    color: #e0dcd1 !important; /* Off-white */
+}
+
+/* Buttons */
+.btn {
+    background-color: #8c3a3a !important; /* Deeper, muted red */
+    color: #e0dcd1 !important; /* Off-white */
+    border: 1px solid #5a453c !important; /* Darker, less saturated brown */
+}
+
+.btn:hover {
+    background-color: #5a453c !important; /* Darker brown */
+}
+
+/* Repository header */
+.repohead {
+    background-color: #5a453c !important; /* Darker brown */
+    border-bottom: 1px solid #8c3a3a !important; /* Muted red */
+}
+
+/* Borders */
+.border-bottom {
+    border-bottom: 1px solid #5a453c !important;
+}
+
+.border-top {
+    border-top: 1px solid #5a453c !important;
+}
+
+/* Input fields */
+.form-control {
+    background-color: #5a453c !important; /* Darker brown */
+    color: #e0dcd1 !important; /* Off-white */
+    border: 1px solid #8c3a3a !important; /* Muted red */
+}
+
+/* Accent color for specific elements (e.g., counters, highlights) */
+.Counter {
+    background-color: #8cb8d7 !important; /* Pale, eerie blue */
+    color: #2c1e18 !important; /* Dark, brownish-red */
+}
+
+/* Additional elements for a more complete theme */
+
+/* Navigation tabs */
+.UnderlineNav-item.selected {
+    border-bottom-color: #8cb8d7 !important; /* Pale, eerie blue for selected tab */
+    color: #e0dcd1 !important;
+}
+
+.UnderlineNav-item {
+    color: #e0dcd1 !important;
+}
+
+/* Code blocks */
+.blob-wrapper, .highlight {
+    background-color: #5a453c !important; /* Darker brown for code blocks */
+    border: 1px solid #8c3a3a !important;
+}
+
+/* Issues/PRs status labels */
+.State--open {
+    background-color: #639db1 !important; /* Brighter, but still muted, blue */
+    color: #2c1e18 !important;
+}
+
+.State--closed {
+    background-color: #8c3a3a !important; /* Muted red for closed status */
+    color: #e0dcd1 !important;
+}
+
+.State--merged {
+    background-color: #758467 !important; /* Muted olive green for merged status */
+    color: #2c1e18 !important;
+}
+
+/* Sidebar navigation */
+.Box-row.navigation-item.selected {
+    background-color: #5a453c !important;
+    border-left: 2px solid #8cb8d7 !important;
+}
+
+.Box-row.navigation-item {
+    color: #e0dcd1 !important;
+}
+
+/* Flash messages */
+.flash-warn {
+    background-color: #a95842 !important; /* Rusty, dark orange/red */
+    color: #2c1e18 !important;
+    border-color: #8c3a3a !important;
+}
+
+.flash-error {
+    background-color: #a95842 !important; /* Rusty, dark orange/red */
+    color: #e0dcd1 !important;
+    border-color: #8c3a3a !important;
+}
+
+.flash-success {
+    background-color: #758467 !important; /* Muted olive green for success */
+    color: #2c1e18 !important;
+    border-color: #5a453c !important;
+}
