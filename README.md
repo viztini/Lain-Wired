@@ -1,4 +1,4 @@
-![title](./eva-title.png)
+![title](./lain.png)
 
 # Lain-Wired GitHub Theme (Firefox Extension)
 
